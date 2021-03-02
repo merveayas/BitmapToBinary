@@ -1,0 +1,10 @@
+C:\Users\Merve Ayas\source\repos\BitmapToBinary\BitmapToBinary\bin\Debug\BitmapToBinary.exe.config
+C:\Users\Merve Ayas\source\repos\BitmapToBinary\BitmapToBinary\bin\Debug\BitmapToBinary.exe
+C:\Users\Merve Ayas\source\repos\BitmapToBinary\BitmapToBinary\bin\Debug\BitmapToBinary.pdb
+C:\Users\Merve Ayas\source\repos\BitmapToBinary\BitmapToBinary\obj\Debug\BitmapToBinary.csprojAssemblyReference.cache
+C:\Users\Merve Ayas\source\repos\BitmapToBinary\BitmapToBinary\obj\Debug\BitmapToBinary.Form1.resources
+C:\Users\Merve Ayas\source\repos\BitmapToBinary\BitmapToBinary\obj\Debug\BitmapToBinary.Properties.Resources.resources
+C:\Users\Merve Ayas\source\repos\BitmapToBinary\BitmapToBinary\obj\Debug\BitmapToBinary.csproj.GenerateResource.cache
+C:\Users\Merve Ayas\source\repos\BitmapToBinary\BitmapToBinary\obj\Debug\BitmapToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Merve Ayas\source\repos\BitmapToBinary\BitmapToBinary\obj\Debug\BitmapToBinary.exe
+C:\Users\Merve Ayas\source\repos\BitmapToBinary\BitmapToBinary\obj\Debug\BitmapToBinary.pdb
